@@ -5,7 +5,7 @@ Application web complète de tri et d'analyse de CV utilisant l'API Gemini pour 
 ## 🚀 Fonctionnalités
 
 - **Upload de CV** : Glissez-déposez ou sélectionnez un fichier PDF
-- **Analyse IA** : Extraction automatique du texte + analyse par GPT-4o-mini
+- **Analyse IA** : Extraction automatique du texte + analyse par Gemini 1.5 Flash
 - **Score d'adéquation** : Note de 0 à 100 avec anneau animé
 - **Décision automatique** : Retenu (vert) / À étudier (orange) / Refusé (rouge)
 - **Tableau de bord** : Vue d'ensemble de tous les candidats analysés
